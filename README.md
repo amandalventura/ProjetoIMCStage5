@@ -6,7 +6,7 @@ Criamos modal;
 Evento de submit;
 Resultado do IMC no pop-up;
 Estruturamos os dados no Modal;
-Modularizmaos o modal pop-up;
+Modularizamos o modal pop-up;
 Validamos os dados;
 Modularizamos as funções utilitárias;
 Refatoramos a função submit, aplicando regras de Clean Code;
